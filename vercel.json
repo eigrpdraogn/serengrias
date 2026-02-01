@@ -3,8 +3,9 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://YOUR_LINK_HERE",
+      "destination": "https://c1t1-com.es",
       "permanent": false
     }
   ]
+
 }
